@@ -1,5 +1,11 @@
 # viem
 
+## 2.9.9
+
+### Patch Changes
+
+- [`03095724427a0662694801392d38d6a7b5dd43c7`](https://github.com/wevm/viem/commit/03095724427a0662694801392d38d6a7b5dd43c7) Thanks [@jxom](https://github.com/jxom)! - (Experimental) Renamed `getCallsStatus` to `getCallsReceipt`
+
 ## 2.9.8
 
 ### Patch Changes
